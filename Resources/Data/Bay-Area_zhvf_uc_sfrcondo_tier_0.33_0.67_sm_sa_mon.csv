@@ -1,0 +1,226 @@
+Region,RegionName,StateName,CountyName,CityName,ForecastedDate,ForecastYoYPctChange
+Zip,94002,CA,San Mateo County,Belmont,2/28/2022,3.2
+Zip,94005,CA,San Mateo County,Brisbane,2/28/2022,3.8
+Zip,94010,CA,San Mateo County,Burlingame,2/28/2022,2.8
+Zip,94014,CA,San Mateo County,Daly City,2/28/2022,1.9
+Zip,94015,CA,San Mateo County,Daly City,2/28/2022,3.2
+Zip,94018,CA,San Mateo County,Half Moon Bay,2/28/2022,3.8
+Zip,94019,CA,San Mateo County,Half Moon Bay,2/28/2022,2.8
+Zip,94020,CA,San Mateo County,La Honda,2/28/2022,1.5
+Zip,94021,CA,San Mateo County,Pescadero,2/28/2022,4.8
+Zip,94022,CA,Santa Clara County,Los Altos,2/28/2022,3.7
+Zip,94024,CA,Santa Clara County,Los Altos,2/28/2022,3.9
+Zip,94025,CA,San Mateo County,Menlo Park,2/28/2022,2.8
+Zip,94027,CA,San Mateo County,Atherton,2/28/2022,2.6
+Zip,94028,CA,San Mateo County,Portola Valley,2/28/2022,2.2
+Zip,94030,CA,San Mateo County,Millbrae,2/28/2022,1.2
+Zip,94037,CA,San Mateo County,Montara,2/28/2022,3.4
+Zip,94038,CA,San Mateo County,Moss Beach,2/28/2022,3.3
+Zip,94040,CA,Santa Clara County,Mountain View,2/28/2022,3.4
+Zip,94041,CA,Santa Clara County,Mountain View,2/28/2022,3.4
+Zip,94043,CA,Santa Clara County,Mountain View,2/28/2022,2.4
+Zip,94044,CA,San Mateo County,Pacifica,2/28/2022,3.5
+Zip,94060,CA,San Mateo County,Pescadero,2/28/2022,3.2
+Zip,94061,CA,San Mateo County,Redwood City,2/28/2022,2.8
+Zip,94062,CA,San Mateo County,Redwood City,2/28/2022,3.7
+Zip,94063,CA,San Mateo County,Redwood City,2/28/2022,3.1
+Zip,94065,CA,San Mateo County,Redwood City,2/28/2022,1.8
+Zip,94066,CA,San Mateo County,San Bruno,2/28/2022,2.4
+Zip,94070,CA,San Mateo County,San Carlos,2/28/2022,2.9
+Zip,94074,CA,San Mateo County,San Gregorio,2/28/2022,1.4
+Zip,94080,CA,San Mateo County,South San Francisco,2/28/2022,3.5
+Zip,94085,CA,Santa Clara County,Sunnyvale,2/28/2022,3.4
+Zip,94086,CA,Santa Clara County,Sunnyvale,2/28/2022,3.2
+Zip,94087,CA,Santa Clara County,Sunnyvale,2/28/2022,3.1
+Zip,94089,CA,Santa Clara County,Sunnyvale,2/28/2022,4.1
+Zip,94102,CA,San Francisco County,San Francisco,2/28/2022,3.1
+Zip,94103,CA,San Francisco County,San Francisco,2/28/2022,2.1
+Zip,94104,CA,San Francisco County,San Francisco,2/28/2022,1.8
+Zip,94105,CA,San Francisco County,San Francisco,2/28/2022,1.7
+Zip,94107,CA,San Francisco County,San Francisco,2/28/2022,2.1
+Zip,94108,CA,San Francisco County,San Francisco,2/28/2022,2.9
+Zip,94109,CA,San Francisco County,San Francisco,2/28/2022,2.5
+Zip,94110,CA,San Francisco County,San Francisco,2/28/2022,3.3
+Zip,94111,CA,San Francisco County,San Francisco,2/28/2022,2.5
+Zip,94112,CA,San Francisco County,San Francisco,2/28/2022,4
+Zip,94114,CA,San Francisco County,San Francisco,2/28/2022,3.6
+Zip,94115,CA,San Francisco County,San Francisco,2/28/2022,2.8
+Zip,94116,CA,San Francisco County,San Francisco,2/28/2022,3.4
+Zip,94117,CA,San Francisco County,San Francisco,2/28/2022,3
+Zip,94118,CA,San Francisco County,San Francisco,2/28/2022,2.6
+Zip,94121,CA,San Francisco County,San Francisco,2/28/2022,3.4
+Zip,94122,CA,San Francisco County,San Francisco,2/28/2022,3.6
+Zip,94123,CA,San Francisco County,San Francisco,2/28/2022,2.2
+Zip,94124,CA,San Francisco County,San Francisco,2/28/2022,3.3
+Zip,94127,CA,San Francisco County,San Francisco,2/28/2022,4
+Zip,94131,CA,San Francisco County,San Francisco,2/28/2022,3.3
+Zip,94132,CA,San Francisco County,San Francisco,2/28/2022,2.6
+Zip,94133,CA,San Francisco County,San Francisco,2/28/2022,3.6
+Zip,94134,CA,San Francisco County,San Francisco,2/28/2022,4
+Zip,94158,CA,San Francisco County,San Francisco,2/28/2022,2.6
+Zip,94301,CA,Santa Clara County,Palo Alto,2/28/2022,1.9
+Zip,94303,CA,Santa Clara County,Palo Alto,2/28/2022,1.7
+Zip,94304,CA,Santa Clara County,Palo Alto,2/28/2022,3
+Zip,94305,CA,Santa Clara County,Stanford,2/28/2022,4.4
+Zip,94306,CA,Santa Clara County,Palo Alto,2/28/2022,3.4
+Zip,94401,CA,San Mateo County,San Mateo,2/28/2022,2.3
+Zip,94402,CA,San Mateo County,San Mateo,2/28/2022,3.4
+Zip,94403,CA,San Mateo County,San Mateo,2/28/2022,2.5
+Zip,94404,CA,San Mateo County,Foster City,2/28/2022,2.6
+Zip,94501,CA,Alameda County,Alameda,2/28/2022,6.4
+Zip,94502,CA,Alameda County,Alameda,2/28/2022,6.1
+Zip,94505,CA,Contra Costa County,Discovery Bay,2/28/2022,5.8
+Zip,94506,CA,Contra Costa County,Danville,2/28/2022,6.5
+Zip,94507,CA,Contra Costa County,Alamo,2/28/2022,6.4
+Zip,94509,CA,Contra Costa County,Antioch,2/28/2022,6.7
+Zip,94511,CA,Contra Costa County,Bethel Island,2/28/2022,6.4
+Zip,94513,CA,Contra Costa County,Brentwood,2/28/2022,5.9
+Zip,94514,CA,Contra Costa County,Byron,2/28/2022,4.9
+Zip,94516,CA,Contra Costa County,Canyon,2/28/2022,4.7
+Zip,94517,CA,Contra Costa County,Clayton,2/28/2022,5
+Zip,94518,CA,Contra Costa County,Concord,2/28/2022,7.4
+Zip,94519,CA,Contra Costa County,Concord,2/28/2022,5.5
+Zip,94520,CA,Contra Costa County,Concord,2/28/2022,5.7
+Zip,94521,CA,Contra Costa County,Concord,2/28/2022,4.3
+Zip,94523,CA,Contra Costa County,Pleasant Hill,2/28/2022,7.1
+Zip,94525,CA,Contra Costa County,Crockett,2/28/2022,7.4
+Zip,94526,CA,Contra Costa County,Danville,2/28/2022,5.7
+Zip,94528,CA,Contra Costa County,Diablo,2/28/2022,6.8
+Zip,94530,CA,Contra Costa County,El Cerrito,2/28/2022,6.5
+Zip,94531,CA,Contra Costa County,Antioch,2/28/2022,7.3
+Zip,94536,CA,Alameda County,Fremont,2/28/2022,5.4
+Zip,94538,CA,Alameda County,Fremont,2/28/2022,5.3
+Zip,94539,CA,Alameda County,Fremont,2/28/2022,5.7
+Zip,94541,CA,Alameda County,Hayward,2/28/2022,6.2
+Zip,94542,CA,Alameda County,Hayward,2/28/2022,7
+Zip,94544,CA,Alameda County,Hayward,2/28/2022,5.9
+Zip,94545,CA,Alameda County,Hayward,2/28/2022,6
+Zip,94546,CA,Alameda County,Castro Valley,2/28/2022,6.5
+Zip,94547,CA,Contra Costa County,Hercules,2/28/2022,6.9
+Zip,94548,CA,Contra Costa County,Oakley,2/28/2022,9.1
+Zip,94549,CA,Contra Costa County,Lafayette,2/28/2022,6.1
+Zip,94550,CA,Alameda County,Livermore,2/28/2022,6.7
+Zip,94551,CA,Alameda County,Livermore,2/28/2022,7
+Zip,94552,CA,Alameda County,Castro Valley,2/28/2022,6.1
+Zip,94553,CA,Contra Costa County,Martinez,2/28/2022,4.6
+Zip,94555,CA,Alameda County,Fremont,2/28/2022,4.8
+Zip,94556,CA,Contra Costa County,Moraga,2/28/2022,7.1
+Zip,94560,CA,Alameda County,Newark,2/28/2022,5.7
+Zip,94561,CA,Contra Costa County,Oakley,2/28/2022,6.8
+Zip,94563,CA,Contra Costa County,Orinda,2/28/2022,7.1
+Zip,94564,CA,Contra Costa County,Pinole,2/28/2022,7.6
+Zip,94565,CA,Contra Costa County,Pittsburg,2/28/2022,7
+Zip,94566,CA,Alameda County,Pleasanton,2/28/2022,6.2
+Zip,94568,CA,Alameda County,Dublin,2/28/2022,6
+Zip,94572,CA,Contra Costa County,Rodeo,2/28/2022,8.7
+Zip,94577,CA,Alameda County,San Leandro,2/28/2022,6.7
+Zip,94578,CA,Alameda County,San Leandro,2/28/2022,6.7
+Zip,94579,CA,Alameda County,San Leandro,2/28/2022,6.9
+Zip,94580,CA,Alameda County,San Lorenzo,2/28/2022,6.3
+Zip,94582,CA,Contra Costa County,San Ramon,2/28/2022,7
+Zip,94583,CA,Contra Costa County,San Ramon,2/28/2022,6.7
+Zip,94586,CA,Alameda County,Sunol,2/28/2022,4.1
+Zip,94587,CA,Alameda County,Union City,2/28/2022,6.1
+Zip,94588,CA,Alameda County,Pleasanton,2/28/2022,6.1
+Zip,94595,CA,Contra Costa County,Walnut Creek,2/28/2022,2.8
+Zip,94596,CA,Contra Costa County,Walnut Creek,2/28/2022,5.3
+Zip,94597,CA,Contra Costa County,Walnut Creek,2/28/2022,4.3
+Zip,94598,CA,Contra Costa County,Walnut Creek,2/28/2022,4.3
+Zip,94601,CA,Alameda County,Oakland,2/28/2022,6.1
+Zip,94602,CA,Alameda County,Oakland,2/28/2022,7.8
+Zip,94603,CA,Alameda County,Oakland,2/28/2022,5.6
+Zip,94605,CA,Alameda County,Oakland,2/28/2022,6.6
+Zip,94606,CA,Alameda County,Oakland,2/28/2022,4.6
+Zip,94607,CA,Alameda County,Oakland,2/28/2022,4.3
+Zip,94608,CA,Alameda County,Oakland,2/28/2022,5.7
+Zip,94609,CA,Alameda County,Oakland,2/28/2022,6.4
+Zip,94610,CA,Alameda County,Oakland,2/28/2022,5.1
+Zip,94611,CA,Alameda County,Oakland,2/28/2022,5.6
+Zip,94612,CA,Alameda County,Oakland,2/28/2022,3.4
+Zip,94618,CA,Alameda County,Oakland,2/28/2022,6.7
+Zip,94619,CA,Alameda County,Oakland,2/28/2022,6.2
+Zip,94621,CA,Alameda County,Oakland,2/28/2022,5.9
+Zip,94702,CA,Alameda County,Berkeley,2/28/2022,7.8
+Zip,94703,CA,Alameda County,Berkeley,2/28/2022,6.7
+Zip,94704,CA,Alameda County,Berkeley,2/28/2022,6.5
+Zip,94705,CA,Alameda County,Berkeley,2/28/2022,7
+Zip,94706,CA,Alameda County,Albany,2/28/2022,7.1
+Zip,94707,CA,Alameda County,Berkeley,2/28/2022,7.7
+Zip,94708,CA,Alameda County,Berkeley,2/28/2022,6.6
+Zip,94709,CA,Alameda County,Berkeley,2/28/2022,7.2
+Zip,94710,CA,Alameda County,Berkeley,2/28/2022,3.1
+Zip,94801,CA,Contra Costa County,Richmond,2/28/2022,4.4
+Zip,94803,CA,Contra Costa County,El Sobrante,2/28/2022,9.2
+Zip,94804,CA,Contra Costa County,Richmond,2/28/2022,6
+Zip,94805,CA,Contra Costa County,Richmond,2/28/2022,6.7
+Zip,94806,CA,Contra Costa County,San Pablo,2/28/2022,6.4
+Zip,94901,CA,Marin County,San Rafael,2/28/2022,4.3
+Zip,94903,CA,Marin County,San Rafael,2/28/2022,3.9
+Zip,94904,CA,Marin County,Kentfield,2/28/2022,2.6
+Zip,94920,CA,Marin County,Tiburon,2/28/2022,4.1
+Zip,94925,CA,Marin County,Corte Madera,2/28/2022,2.6
+Zip,94929,CA,Marin County,Dillon Beach,2/28/2022,4.7
+Zip,94930,CA,Marin County,Fairfax,2/28/2022,3.8
+Zip,94933,CA,Marin County,Lagunitas,2/28/2022,2.7
+Zip,94937,CA,Marin County,Inverness,2/28/2022,1.1
+Zip,94938,CA,Marin County,Lagunitas,2/28/2022,1.5
+Zip,94939,CA,Marin County,Larkspur,2/28/2022,2.9
+Zip,94941,CA,Marin County,Mill Valley,2/28/2022,2.9
+Zip,94945,CA,Marin County,Novato,2/28/2022,3.3
+Zip,94946,CA,Marin County,Nicasio,2/28/2022,4.3
+Zip,94947,CA,Marin County,Novato,2/28/2022,3.1
+Zip,94949,CA,Marin County,Novato,2/28/2022,3
+Zip,94950,CA,Marin County,Point Reyes Station,2/28/2022,0.9
+Zip,94956,CA,Marin County,Point Reyes Station,2/28/2022,2
+Zip,94957,CA,Marin County,Ross,2/28/2022,3.6
+Zip,94960,CA,Marin County,San Anselmo,2/28/2022,4.6
+Zip,94963,CA,Marin County,San Geronimo,2/28/2022,4
+Zip,94964,CA,Marin County,San Quentin,2/28/2022,6.2
+Zip,94965,CA,Marin County,Sausalito,2/28/2022,2.7
+Zip,94970,CA,Marin County,Stinson Beach,2/28/2022,0.8
+Zip,94971,CA,Marin County,Tomales,2/28/2022,1.3
+Zip,94973,CA,Marin County,Woodacre,2/28/2022,5.1
+Zip,95002,CA,Santa Clara County,San Jose,2/28/2022,4.4
+Zip,95008,CA,Santa Clara County,Campbell,2/28/2022,3.6
+Zip,95014,CA,Santa Clara County,Cupertino,2/28/2022,3.6
+Zip,95020,CA,Santa Clara County,Gilroy,2/28/2022,3.6
+Zip,95030,CA,Santa Clara County,Los Gatos,2/28/2022,3.6
+Zip,95032,CA,Santa Clara County,Los Gatos,2/28/2022,3.3
+Zip,95033,CA,Santa Clara County,Lexington Hills,2/28/2022,3.6
+Zip,95035,CA,Santa Clara County,Milpitas,2/28/2022,4
+Zip,95037,CA,Santa Clara County,Morgan Hill,2/28/2022,4.7
+Zip,95046,CA,Santa Clara County,San Martin,2/28/2022,7.1
+Zip,95050,CA,Santa Clara County,Santa Clara,2/28/2022,3.8
+Zip,95051,CA,Santa Clara County,Santa Clara,2/28/2022,2.6
+Zip,95054,CA,Santa Clara County,Santa Clara,2/28/2022,2.6
+Zip,95070,CA,Santa Clara County,Saratoga,2/28/2022,4.8
+Zip,95110,CA,Santa Clara County,San Jose,2/28/2022,1.3
+Zip,95111,CA,Santa Clara County,San Jose,2/28/2022,4.5
+Zip,95112,CA,Santa Clara County,San Jose,2/28/2022,3.1
+Zip,95113,CA,Santa Clara County,San Jose,2/28/2022,0.4
+Zip,95116,CA,Santa Clara County,San Jose,2/28/2022,5.1
+Zip,95117,CA,Santa Clara County,San Jose,2/28/2022,3.6
+Zip,95118,CA,Santa Clara County,San Jose,2/28/2022,5.1
+Zip,95119,CA,Santa Clara County,San Jose,2/28/2022,5.7
+Zip,95120,CA,Santa Clara County,San Jose,2/28/2022,4.5
+Zip,95121,CA,Santa Clara County,San Jose,2/28/2022,5
+Zip,95122,CA,Santa Clara County,San Jose,2/28/2022,4.4
+Zip,95123,CA,Santa Clara County,San Jose,2/28/2022,3.5
+Zip,95124,CA,Santa Clara County,San Jose,2/28/2022,4.2
+Zip,95125,CA,Santa Clara County,San Jose,2/28/2022,3.4
+Zip,95126,CA,Santa Clara County,San Jose,2/28/2022,3
+Zip,95127,CA,Santa Clara County,San Jose,2/28/2022,4.3
+Zip,95128,CA,Santa Clara County,San Jose,2/28/2022,3.9
+Zip,95129,CA,Santa Clara County,San Jose,2/28/2022,4.2
+Zip,95130,CA,Santa Clara County,San Jose,2/28/2022,3.2
+Zip,95131,CA,Santa Clara County,San Jose,2/28/2022,2.5
+Zip,95132,CA,Santa Clara County,San Jose,2/28/2022,3.2
+Zip,95133,CA,Santa Clara County,San Jose,2/28/2022,3.4
+Zip,95134,CA,Santa Clara County,San Jose,2/28/2022,2.8
+Zip,95135,CA,Santa Clara County,San Jose,2/28/2022,4.9
+Zip,95136,CA,Santa Clara County,San Jose,2/28/2022,3.4
+Zip,95138,CA,Santa Clara County,San Jose,2/28/2022,4.7
+Zip,95139,CA,Santa Clara County,San Jose,2/28/2022,5.7
+Zip,95140,CA,Santa Clara County,East Foothills,2/28/2022,5.2
+Zip,95141,CA,Santa Clara County,San Jose,2/28/2022,3.8
+Zip,95148,CA,Santa Clara County,San Jose,2/28/2022,4.5
