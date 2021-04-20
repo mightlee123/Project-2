@@ -13,7 +13,9 @@ NOTE: X= could just be a straight 10%
       or
       X= (tenure/company_age)*20%
       Can exercise once every 8 years (edited) 
-      
+
+We will be looking at San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, and Marin Counties. Sonoma, Napa, and Solano Counties have been intentionally excluded so that the data would not be diluted by cities that are of less interest to our target audience.
+
 ---
 
 ## Overview of the Analysis
@@ -22,17 +24,6 @@ NOTE: X= could just be a straight 10%
 
 ## Results
 ---
-
-* K-means Analysis / PCA:
-   * k=4the mkt data represents a cluster distribution that appears to be
-   * 1 for those preceding the bell curve
-   * 2 completed bell curves
-   * 1 cluster too mature to register on a curve
-   * Could perhaps even make the argument for "k=5", in anticipation of mirrored parallel 
-   * representations for the 2 completed curves to the "0"s.
-   * 2 for those preceding the bell curve
-   * 2 completed bell curves
-   * 1 cluster too mature to register on a curve
 
 * SVC classifier model from SKLearn's support vector machine (SVM) learning method, ...
   * The model's accuracy was assessed to be 
