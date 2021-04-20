@@ -13,8 +13,8 @@ NOTE: X= could just be a straight 10%
       or
       X= (tenure/company_age)*20%
       Can exercise once every 8 years (edited) 
-
-We will be looking at San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, and Marin Counties. Sonoma, Napa, and Solano Counties have been intentionally excluded so that the data would not be diluted by cities that are of less interest to our target audience.
+##  Scope
+We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, and Marin Counties. Sonoma, Napa, and Solano Counties have been intentionally excluded so that the data would not be diluted by cities that are of less interest to our target audience.
 
 ---
 
