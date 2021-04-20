@@ -1,8 +1,8 @@
 # Real Estate Investment Predictor
-
+   ![image](https://user-images.githubusercontent.com/75819421/115457352-460a7e00-a1d9-11eb-91d9-0efd9641e609.png)
 ---
 
-## Create and Optimize a machine learning model that can predict the next city in the Bay Area that will experience a surge in the real estate market
+## Create and Optimize a machine learning model that can predict the next city in the Bay Area that will experience a surge in the real estate market. Furthermore, users can choose different variaties of features to see more growth scale.
 
 For this project, we've assumed roles as Senior FinTech Analysts reporting to the SVP of Faculty Success for BCS, the developer/administrator of industry-leading online learning environments for the most respected Universities, including UC Berkeley, MIT.
 
