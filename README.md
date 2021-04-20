@@ -17,9 +17,6 @@ NOTE: X= could just be a straight 10%
 We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, and Marin Counties. Sonoma, Napa, and Solano Counties have been intentionally excluded so that the data would not be diluted by cities that are of less interest to our target audience.
 
 ---
-
-## Overview of the Analysis
----
   
 
 ## Results
