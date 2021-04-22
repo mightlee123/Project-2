@@ -40,21 +40,14 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 ![](/Images/.jpg)
 
 
-* Linear Regression Model:
-  * The model's accuracy was assessed to be 
-  * The model's precision was assessed to be  for (0) and  for (1).
-  * The model's recall was assessed to be  for (0) and  for (1).
+* Neural Network Deep Learning:
+  * 
+  *
 
 ![](/Images/.jpg)    
 ![](/Images/.jpg)
 
-* Random Forest Regression Model:
-  * The model's accuracy was assessed to be 
-  * The model's precision was assessed to be  for (0) and  for (1).
-  * The model's recall was assessed to be  for (0) and  for (1).
 
-![](/Images/.jpg)    
-![](/Images/.jpg)
     
 ### Question: What impact resulted from using various models?
 
