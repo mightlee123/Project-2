@@ -23,9 +23,9 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 ---
 
 * SVC classifier model from SKLearn's support vector machine (SVM) learning method, ...
-  * The model's accuracy was assessed to be 
-  * The model's precision was assessed to be  for (0) and  for (1).
-  * The model's recall was assessed to be  for (0) and  for (1).
+  * The model's accuracy was assessed to be 87%
+  * The model's precision was assessed to be 75% for (0) and 100% for (1).
+  * The model's recall was assessed to be 100% for (0) and 78% for (1).
 
 ![](/Images/.jpg)    
 ![](/Images/.jpg)
