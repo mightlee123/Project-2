@@ -41,11 +41,15 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 
 
 * Neural Network Deep Learning:
-  * 
-  *
+  * The model's accuracy was assessed to be 93%
+  * The lodel's loss was assessed to be 19%
 
-![](/Images/.jpg)    
-![](/Images/.jpg)
+![](/Images/nn_25_yr_mn.jpg)    
+
+![](/Images/nn_accuracy_loss.jpg)
+
+![](/Images/nn_acc_loss_graph.jpg)
+
 
 
     
