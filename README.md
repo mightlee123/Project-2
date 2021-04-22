@@ -48,7 +48,7 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 
 ![](/Images/nn_accuracy_loss.jpg)
 
-![](/Images/nn_acc_loss_graph.jpg)
+![](/Images/new_nn_acc_loss_graph.jpg)
 
 
 
