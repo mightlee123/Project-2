@@ -55,23 +55,12 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
     
 ### Question: What impact resulted from using various models?
 
-  Accuracy and precision increased by increasing the training window. Recall increased for the (1) values, but decreased for the (-1) values.
-  
-
-### Questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
+  Accuracy and precision increased by testing different clustering methods, and different machine learning models.
 
   
 ## Summary
 ---
-
-### Original Model:
-![](/Images/.jpg)    
-
-### Tuned Model:
-![](/Images/.jpg)    
-
-### Logistic Regression Model:
-![](/Images/.jpg)    
+The SVM model was satisfactory, but the neural network model ended up being the most accurate overall. The logistic regression model was not a good fit for this application. 
 
 ---
 
@@ -90,10 +79,13 @@ hvPlot - to create graphs [hvPlot documentation](https://hvplot.holoviz.org/)
 
 matplotlib - to create graphs [matplotlib documentation](https://matplotlib.org/stable/contents.html)
 
+datetime - to standardize the format of dates - [datetime documentation](https://docs.python.org/3/library/datetime.html)
+
 DateOffset - to create a date range [DateOffset documentation](https://pandas.pydata.org/docs/reference/api/pandas.tseries.offsets.DateOffset.html)
 
-SciKit-Learn - to train models, encode data, and scale data [SciKit Learn documentation](https://scikit-learn.org/0.21/documentation.html)
+finta - to support trading indicators - [finta documentation](https://pypi.org/project/finta/0.3.3/)
 
+SciKit-Learn - to train models, encode data, and scale data [SciKit Learn documentation](https://scikit-learn.org/0.21/documentation.html)
 
 ---
 
@@ -109,9 +101,13 @@ Install the hvPlot library using the following command: 'import hvplot.pandas'
 
 Install the matplotlib library using the following command: 'import matplotlib.pyplot as plt'
 
-Install the DateOffset package usi8ng the following command: 'from pandas.tseries.offsets import DateOffset'
+Install the datetime library using the following command: 'from datetime import datetime'
 
-Install the SciKit-Learn metrics libraries using the following commands: 'from sklearn import svm', 'from sklearn.preprocessing import StandardScaler', 'from sklearn.metrics import classification_report', 'from sklearn.linear_model import LogisticRegression'
+Install the DateOffset package using the following command: 'from pandas.tseries.offsets import DateOffset'
+
+Install the finta library using the following command: 'from finta import TA'
+
+Install the SciKit-Learn metrics libraries using the following commands: 'from sklearn import svm', 'from sklearn.svm import SVC', 'from sklearn.cluster import KMeans', 'from sklearn.decomposition import PCA', 'from sklearn.preprocessing import StandardScaler', 'from sklearn.metrics import classification_report', 'from sklearn.linear_model import LogisticRegression'
 
 
 --- 
