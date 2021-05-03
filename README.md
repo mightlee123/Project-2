@@ -23,6 +23,7 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 ---
 
 * K-means Clustering with Elbow Method
+
 ![image](https://user-images.githubusercontent.com/75819421/116847327-2d1da780-ab9f-11eb-8c13-a4d845f09381.png)
 ![image](https://user-images.githubusercontent.com/75819421/116847419-54747480-ab9f-11eb-9598-ebb1f21cfd1d.png)
 
