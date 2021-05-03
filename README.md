@@ -22,6 +22,10 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 ## Results
 ---
 
+* K-means Clustering with Elbow Method
+![image](https://user-images.githubusercontent.com/75819421/116847327-2d1da780-ab9f-11eb-8c13-a4d845f09381.png)
+![image](https://user-images.githubusercontent.com/75819421/116847419-54747480-ab9f-11eb-9598-ebb1f21cfd1d.png)
+
 * SVC classifier model from SKLearn's support vector machine (SVM) learning method, ...
   * The model's accuracy was assessed to be 87%
   * The model's precision was assessed to be 75% for cluster 2 and 100% for cluster 3.
@@ -30,29 +34,14 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
 ![](/Images/clusters_classification_report.png)    
 ![](/Images/.jpg)
 
-
-* Logistic Regression Model:
-  * The model's accuracy was assessed to be 55%
-  * The model's precision was assessed to be 37% for (-1) and 56% for (1).
-  * The model's recall was assessed to be 3% for (-1) and 96% for (1).
-
-![](/Images/.jpg)    
-![](/Images/.jpg)
-
-
 * Neural Network Deep Learning:
   * The model's accuracy was assessed to be 93%
   * The lodel's loss was assessed to be 19%
 
 ![](/Images/nn_25_yr_mn.jpg)    
-
 ![](/Images/nn_accuracy_loss.jpg)
-
 ![](/Images/new_nn_acc_loss_graph.png)
 
-
-
-    
 ### Question: What impact resulted from using various models?
 
   Accuracy and precision increased by testing different clustering methods, and different machine learning models.
@@ -60,7 +49,9 @@ We focus on San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa, Marin,
   
 ## Summary
 ---
-The SVM model was satisfactory, but the neural network model ended up being the most accurate overall. The logistic regression model was not a good fit for this application. 
+By using the K-means clustering method and our bell curve theory, we were able to cluster cities into groups that corresponds to their position on the bell curve. 
+Then we use the SVM model and the neural network model to test our cluster results. Compared to the the SVM model, the neural network model was more relatable to
+to our clusters by having a more accurate result.  
 
 ---
 
